@@ -36,7 +36,7 @@
 
 
 <a href="https://github.com/YerTX2/SonGOKU.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=taulantxhakli&repo=taulantxhakli.github.io&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=taulantxhakli&repo=SonGoku.github.io&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" />
 </a>  
 
 ------
