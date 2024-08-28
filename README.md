@@ -23,21 +23,20 @@
 
 ## ⚙️ GitHub Stats ⚙️
 
-<a href="https://github.com/YerTX2/SonGOKU">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taulantxhakli&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/taulantxhakli/taulantxhakli">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=taulantxhakli&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" alt="Taulant's GitHub Stats" />
-</a>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mubin-khalid&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mubin-khalid&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mubin-khalid&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mubin-khalid&theme=radical&no-frame=true&no-bg=false&margin-w=4) 
 <a href="https://github.com/taulantxhakli/Discrimination">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=taulantxhakli&repo=Discrimination&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" />
 </a>
 
 
 <a href="https://github.com/YerTX2/SonGOKU.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=taulantxhakli&repo=SonGoku.github.io&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" />
-</a>  
+  <img align="center" 
 
 ------
 Credit: [taulantxhakli](https://github.com/taulantxhakli)
