@@ -35,9 +35,5 @@
 </a>
 
 
-<a href="https://github.com/YerTX2/SonGOKU.github.io">
-  <img align="center" 
 
-------
-Credit: [taulantxhakli](https://github.com/taulantxhakli)
  
