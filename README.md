@@ -1,9 +1,8 @@
 `!HOLA MI NOMBRE ES YER!`
             
    
-- 🛠 Actualmente estoy trabajando en mi portafolio y currículum
-- 🌴 Actualmente estoy perfeccionando mi oficio
-- 🤝 Estoy buscando colaborar en cualquier proyecto de código abierto
+- 🛠Hola bienvenido espero su apoyo 
+- ⚡espero que qué les guste mis trabajos
 
 ## 🔧 Technologies Stack 🔧
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=blueviolet)
