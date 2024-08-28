@@ -1,4 +1,7 @@
-## ![](https://mario.wiki.gallery/images/6/66/DK64_Yellow_Banana.gif) HOLA MI NOMBRE ES YER ![](https://mario.wiki.gallery/images/6/66/DK64_Yellow_Banana.gif)
+!HOLA MI NOMBRE ES YER!
+! HELLO MY NAME IS YER!
+! สวัสดีฉันชื่อเยอร์!
+! OLÁ, MEU NOME É YER!
 
 - 🛠 Actualmente estoy trabajando en mi portafolio y currículum
 - 🌴 Actualmente estoy perfeccionando mi oficio
