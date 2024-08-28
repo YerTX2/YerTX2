@@ -1,7 +1,5 @@
-!HOLA MI NOMBRE ES YER!
-            ! HELLO MY NAME IS YER!
-            ! สวัสดีฉันชื่อเยอร์!
-            ! OLÁ, MEU NOME É YER!
+`!HOLA MI NOMBRE ES YER!`
+            
    
 - 🛠 Actualmente estoy trabajando en mi portafolio y currículum
 - 🌴 Actualmente estoy perfeccionando mi oficio
