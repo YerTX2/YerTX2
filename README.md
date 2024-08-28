@@ -1,9 +1,8 @@
 ## ![](https://mario.wiki.gallery/images/6/66/DK64_Yellow_Banana.gif) Welcome To My Cave ![](https://mario.wiki.gallery/images/6/66/DK64_Yellow_Banana.gif)
 
-- 🛠 I am currently working on my portfolio and resume
-- 🌴 I am currently perfecting my craft
-- 🤝 I am looking to collaborate on any open source project
-- 📧 How to reach me: txhakli@gmail.com
+- 🛠 Actualmente estoy trabajando en mi portafolio y currículum
+- 🌴 Actualmente estoy perfeccionando mi oficio
+- 🤝 Estoy buscando colaborar en cualquier proyecto de código abierto
 
 ## 🔧 Technologies Stack 🔧
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=blueviolet)
