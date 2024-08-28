@@ -1,4 +1,4 @@
-## ![](https://mario.wiki.gallery/images/6/66/DK64_Yellow_Banana.gif) `HOLA BIENVENIDO A MI REPOSITORIO MI NOMBRE ES YER` ![](https://mario.wiki.gallery/images/6/66/DK64_Yellow_Banana.gif)
+## ![](https://mario.wiki.gallery/images/6/66/DK64_Yellow_Banana.gif) `HOLA MI NOMBRE ES YER` ![](https://mario.wiki.gallery/images/6/66/DK64_Yellow_Banana.gif)
 
 - 🛠 Actualmente estoy trabajando en mi portafolio y currículum
 - 🌴 Actualmente estoy perfeccionando mi oficio
@@ -30,7 +30,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mubin-khalid&theme=radical&no-frame=true&no-bg=false&margin-w=4) 
-<a 
+
 
 
 
