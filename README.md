@@ -38,7 +38,7 @@
 
 <a href="https://github.com/YerTX2/SonGOKU">![github card](https://github-readme-stats.vercel.app/api/pin/?username=YerTX2&repo=SonGOKU&theme=merko)</a>
 
-<a href="https://github.com/YerTX2/Hades-BotZx">![github card](https://github-readme-stats.vercel.app/api/pin/?username=YerTX2&repo=SonGOKU&theme=merko)</a>
+<a href="https://github.com/YerTX2/Hades-BotZx">![github card](https://github-readme-stats.vercel.app/api/pin/?username=YerTX2&repo=Hades-BotZx&theme=merko)</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=footer"/>
 
